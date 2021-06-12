@@ -1,0 +1,32 @@
+{"salads":
+  [
+    {
+      "id": "60c47862aebf4d303f396345",
+      "name": "Салат Цезарь",
+      "price": 150.0,
+      "type": "SALAD",
+      "contentType": "image/jpeg"
+    },
+    {
+      "id": "60c47862aebf4d303f396346",
+      "name": "Салат Столичный",
+      "price": 170.0,
+      "type": "SALAD",
+      "contentType": "image/jpeg"
+    },
+    {
+      "id": "60c47862aebf4d303f396349",
+      "name": "Салат Мясной",
+      "price": 170.0,
+      "type": "SALAD",
+      "contentType": "image/jpeg"
+    },
+    {
+      "id": "60c47862aebf4d303f396326",
+      "name": "Салат Летний",
+      "price": 100.0,
+      "type": "SALAD",
+      "contentType": "image/jpeg"
+    }
+  ]
+}
